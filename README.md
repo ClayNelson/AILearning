@@ -138,20 +138,50 @@ For those who have completed the beginner path or have equivalent experience.
 - **Libraries**: pandas, numpy, scikit-learn, tensorflow, pytorch
 - **Deployment**: Streamlit, Flask, Docker, AWS/Azure/GCP
 
-## 🎓 Getting Started
+## 🚀 Quick Start
 
-1. **Choose Your Path**: Start with Python Fundamentals if you're new to programming
-2. **Set Up Environment**: Follow the setup guide in your chosen path
-3. **Join the Community**: Consider joining AI/ML communities and forums
-4. **Practice Regularly**: Aim for consistent daily practice
-5. **Build Projects**: Apply what you learn through hands-on projects
+1. **📖 Read the [Getting Started Guide](./getting-started.md)** - Set up your development environment
+2. **🎯 Choose Your Learning Path** - Start with Python Fundamentals if you're new to programming
+3. **📋 Track Your Progress** - Use the [Learning Milestones](./learning-milestones.md) checklists
+4. **🔧 Set Up Environment** - Follow setup instructions in your chosen path
+5. **💻 Start First Project** - Begin with provided project templates
+6. **👥 Join Community** - Connect with other learners online
+
+## 📂 Repository Structure
+
+```
+AILearning/
+├── 📚 Learning Paths/
+│   ├── python-fundamentals/     # 4-6 weeks: Programming basics
+│   ├── ai-ml-beginner/         # 6-8 weeks: ML fundamentals  
+│   └── ai-ml-intermediate/     # 8-10 weeks: Advanced AI topics
+├── 🛠 Projects/
+│   ├── beginner/               # Python projects
+│   ├── intermediate/           # ML projects
+│   └── advanced/              # AI applications
+├── 📖 Resources/               # Books, courses, tools, datasets
+├── 🎯 getting-started.md       # Environment setup guide
+├── 📋 learning-milestones.md   # Progress tracking checklists
+└── ⚙️ requirements-setup.md    # Package installation guides
+```
 
 ## 📞 Need Help?
 
-- Check the FAQ in each learning path directory
-- Review example code and solutions
-- Join study groups or find a coding buddy
-- Participate in online AI/ML communities
+- **🔧 Setup Issues**: Check the [Getting Started Guide](./getting-started.md)
+- **📋 Progress Tracking**: Use [Learning Milestones](./learning-milestones.md) checklists  
+- **💻 Coding Questions**: Review project templates and example solutions
+- **🤝 Community Support**: Join study groups and online communities
+- **📚 Additional Resources**: Explore the [Resources](./resources/) directory
+
+## 🔗 Quick Links
+
+- 📖 **[Getting Started Guide](./getting-started.md)** - Environment setup
+- 📋 **[Learning Milestones](./learning-milestones.md)** - Track your progress  
+- 🐍 **[Python Fundamentals Path](./python-fundamentals/)** - Start here if new to programming
+- 🤖 **[AI/ML Beginner Path](./ai-ml-beginner/)** - Core machine learning concepts
+- 🚀 **[AI/ML Intermediate Path](./ai-ml-intermediate/)** - Advanced AI techniques
+- 💻 **[Projects](./projects/)** - Hands-on coding projects
+- 📚 **[Resources](./resources/)** - Books, courses, tools, and datasets
 
 ---
 
