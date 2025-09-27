@@ -19,7 +19,7 @@ Welcome to your comprehensive Python learning journey! This guide is specificall
 ## Prerequisites
 
 Before we start, ensure you have:
-- A Mac running macOS 10.14 (Mojave) or later
+- A Mac running macOS 10.15 (Catalina) or later
 - Administrator access to install software
 - Basic familiarity with Terminal (we'll guide you through it!)
 
@@ -75,8 +75,8 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 source ~/.zshrc
 
 # Install Python version
-pyenv install 3.11.0
-pyenv global 3.11.0
+pyenv install 3.12.0
+pyenv global 3.12.0
 ```
 
 ---
@@ -281,7 +281,7 @@ deactivate
 brew install miniconda
 
 # Create environment
-conda create --name myproject python=3.11
+conda create --name myproject python=3.12
 
 # Activate environment
 conda activate myproject
@@ -313,9 +313,9 @@ pip3 install --user package_name
 ```
 
 #### SSL certificate errors
-**Solution**: Update certificates:
+**Solution**: Update certificates (replace 3.12 with your Python version):
 ```bash
-/Applications/Python\ 3.x/Install\ Certificates.command
+/Applications/Python\ 3.12/Install\ Certificates.command
 ```
 
 #### "xcrun: error: invalid active developer path"
