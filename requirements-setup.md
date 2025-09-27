@@ -25,7 +25,7 @@ jupyter>=1.0.0
 
 # Deep learning basics
 tensorflow>=2.12.1
-keras>=2.12.0
+# keras is included with TensorFlow as tf.keras
 
 # Data processing
 opencv-python>=4.8.1.78

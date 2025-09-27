@@ -47,9 +47,9 @@ class HousePricePredictor:
     def create_features(self, df):
         """Engineer new features"""
         # TODO: Create meaningful features like:
-        # - rooms_per_house = AveRooms * HouseAge
         # - bedrooms_per_room = AveBedrms / AveRooms
-        # - population_per_house = Population / HouseAge
+        # - population_per_household = Population / Households  
+        # - income_per_room = MedInc / AveRooms
         pass
     
     def prepare_data(self, X, y):
